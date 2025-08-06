@@ -21,20 +21,21 @@ Ce projet a été réalisé à l’aide de plusieurs outils :
 - **DAX (Data Analysis Expressions)** pour créer des mesures, des indicateurs personnalisés et permettre une analyse dynamique des données.
 
 ---
+## Présentation dashboard
 
+Dans Power BI, **quatre vues principales** ont été conçues pour répondre aux besoins métiers et faciliter la prise de décision :
 
-## Tableaux de bord développés
+ 1.  Présentation  
+Cette vue introductive propose une courte présentation du tableau de bord, du contexte du projet et des objectifs de l’analyse.
 
-Dans Power BI, trois vues principales ont été conçues pour répondre aux besoins métiers :
+2.  Demandes de prêts  
+Cette page est dédiée à l’analyse des demandes de prêts. Grâce à des filtres interactifs, il est possible de cibler des années précises ou des agences spécifiques pour observer les tendances et volumes de demandes.
 
-1. **Vue Globale**  
-   Cette vue permet d’avoir une vision d’ensemble du portefeuille client. Elle présente des indicateurs clés comme le nombre total de crédits accordés, la répartition par statut marital, ou encore l’évolution des scores de crédit.
+ 3.  Performances des agences  
+Cette vue permet de comparer les performances des différentes agences du Crédit Breton à l’aide d’indicateurs clés (nombre de prêts accordés, taux de refus, etc.).
 
-2. **Vue Détail Client**  
-   Cette page se concentre sur l’analyse individuelle des profils clients. Grâce à des filtres interactifs, il est possible de segmenter les données par tranche d’âge, niveau d’éducation, revenu, etc., pour mieux comprendre les typologies de clients.
-
-3. **Vue Scoring et Risques**  
-   Cette dernière vue met en avant les scores de crédit et les niveaux de risque associés. Elle facilite la détection des profils les plus à risque et permet d’anticiper les défauts de paiement potentiels.
+4.  Liste des clients  
+Cette page présente la liste détaillée des clients des différentes agences ainsi que les caractéristiques associées à leurs prêts (montant, statut, score de crédit, etc.).
 
 ---
 
