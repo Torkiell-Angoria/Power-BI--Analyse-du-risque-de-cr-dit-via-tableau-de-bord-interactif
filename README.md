@@ -28,8 +28,10 @@ Dans Power BI, **quatre vues principales** ont été conçues pour répondre aux
  1.  Présentation  
 Cette vue introductive propose une courte présentation du tableau de bord, du contexte du projet et des objectifs de l’analyse.
 
-![Accueil](img/Power Bi - Risque de crédit - accueil.PNG)
+![Accueil](https://github.com/Torkiell-Angoria/Power-BI--Analyse-du-risque-de-cr-dit-via-tableau-de-bord-interactif/blob/main/img/Power%20Bi%20-%20Risque%20de%20cr%C3%A9dit%20-%20accueil.png)
 
+
+![[https://github.com/Torkiell-Angoria/Power-BI--Analyse-du-risque-de-cr-dit-via-tableau-de-bord-interactif/blob/main/img/Power%20Bi%20-%20Risque%20de%20cr%C3%A9dit%20-%20accueil.png]]
 3.  Demandes de prêts  
 Cette page est dédiée à l’analyse des demandes de prêts. Grâce à des filtres interactifs, il est possible de cibler des années précises ou des agences spécifiques pour observer les tendances et volumes de demandes.
 
