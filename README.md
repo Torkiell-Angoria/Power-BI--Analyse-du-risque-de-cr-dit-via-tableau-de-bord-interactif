@@ -27,14 +27,16 @@ Dans Power BI, **quatre vues principales** ont été conçues pour répondre aux
 
  1.  Présentation  
 Cette vue introductive propose une courte présentation du tableau de bord, du contexte du projet et des objectifs de l’analyse.
+![Accueil Power BI](img/Power Bi - Risque de crédit - accueil.png)
 
-2.  Demandes de prêts  
+
+3.  Demandes de prêts  
 Cette page est dédiée à l’analyse des demandes de prêts. Grâce à des filtres interactifs, il est possible de cibler des années précises ou des agences spécifiques pour observer les tendances et volumes de demandes.
 
- 3.  Performances des agences  
+ 4.  Performances des agences  
 Cette vue permet de comparer les performances des différentes agences du Crédit Breton à l’aide d’indicateurs clés (nombre de prêts accordés, taux de refus, etc.).
 
-4.  Liste des clients  
+5.  Liste des clients  
 Cette page présente la liste détaillée des clients des différentes agences ainsi que les caractéristiques associées à leurs prêts (montant, statut, score de crédit, etc.).
 
 ---
