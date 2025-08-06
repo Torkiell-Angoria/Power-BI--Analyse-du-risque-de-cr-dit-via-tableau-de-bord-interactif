@@ -30,16 +30,20 @@ Cette vue introductive propose une courte présentation du tableau de bord, du c
 
 ![Accueil](https://github.com/Torkiell-Angoria/Power-BI--Analyse-du-risque-de-cr-dit-via-tableau-de-bord-interactif/blob/main/img/Power%20Bi%20-%20Risque%20de%20cr%C3%A9dit%20-%20accueil.png)
 
-
-![[https://github.com/Torkiell-Angoria/Power-BI--Analyse-du-risque-de-cr-dit-via-tableau-de-bord-interactif/blob/main/img/Power%20Bi%20-%20Risque%20de%20cr%C3%A9dit%20-%20accueil.png]]
-3.  Demandes de prêts  
+2.  Demandes de prêts  
 Cette page est dédiée à l’analyse des demandes de prêts. Grâce à des filtres interactifs, il est possible de cibler des années précises ou des agences spécifiques pour observer les tendances et volumes de demandes.
 
- 4.  Performances des agences  
+![Demande de prêts](https://github.com/Torkiell-Angoria/Power-BI--Analyse-du-risque-de-cr-dit-via-tableau-de-bord-interactif/blob/main/img/Power%20BI%20-%20Risque%20de%20cr%C3%A9dit%20-%20Demande%20de%20pr%C3%AAt.png)
+
+3.  Performances des agences  
 Cette vue permet de comparer les performances des différentes agences du Crédit Breton à l’aide d’indicateurs clés (nombre de prêts accordés, taux de refus, etc.).
 
-5.  Liste des clients  
+![Performances agences](https://github.com/Torkiell-Angoria/Power-BI--Analyse-du-risque-de-cr-dit-via-tableau-de-bord-interactif/blob/main/img/Power%20BI-%20Risque%20de%20cr%C3%A9dit%20-%20Vue%20Performance%20agences.png)
+
+4.  Liste des clients  
 Cette page présente la liste détaillée des clients des différentes agences ainsi que les caractéristiques associées à leurs prêts (montant, statut, score de crédit, etc.).
+
+![Liste des clients](https://github.com/Torkiell-Angoria/Power-BI--Analyse-du-risque-de-cr-dit-via-tableau-de-bord-interactif/blob/main/img/Power%20BI-%20Risque%20de%20cr%C3%A9dit%20-%20Liste%20des%20clients.png)
 
 ---
 
